@@ -1,7 +1,7 @@
 {
     "name": "caneco/uncommonmark",
     "description": "Some **uncommon** markdown extensions",
-    "keywords": ["caneco", "uncommonmark"],
+    "keywords": ["caneco", "uncommonmark", "commonmark", "markdown"],
     "homepage": "https://github.com/caneco/uncommonmark",
     "license": "MIT",
     "authors": [

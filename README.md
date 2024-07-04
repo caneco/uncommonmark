@@ -1,7 +1,6 @@
 # Some &#42;&#42;uncommon&#42;&#42; markdown extensions
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/caneco/uncommonmark.svg?style=flat-square)](https://packagist.org/packages/caneco/uncommonmark)
-[![Tests](https://img.shields.io/github/actions/workflow/status/caneco/uncommonmark/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/caneco/uncommonmark/actions/workflows/run-tests.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/caneco/uncommonmark.svg?style=flat-square)](https://packagist.org/packages/caneco/uncommonmark)
 
 This is where your description should go. Try and limit it to a paragraph or two. Consider adding a small example.
