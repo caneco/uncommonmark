@@ -1,4 +1,4 @@
-# Some **uncommon** markdown extensions
+# Some &#42;&#42;uncommon&#42;&#42; markdown extensions
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/caneco/uncommonmark.svg?style=flat-square)](https://packagist.org/packages/caneco/uncommonmark)
 [![Tests](https://img.shields.io/github/actions/workflow/status/caneco/uncommonmark/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/caneco/uncommonmark/actions/workflows/run-tests.yml)
